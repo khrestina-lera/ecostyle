@@ -136,5 +136,8 @@ body{
   color:var(--muted);
   font-style:italic;
 }
-
+.formtitle {
+  font-size: 32px;
+text-align: center;
+}
 
